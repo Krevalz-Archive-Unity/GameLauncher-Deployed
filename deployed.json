@@ -89,6 +89,20 @@
             ],
             "exeName": "Grid System.exe",
             "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/grid_system_v1.0.1.zip?raw=true"
+        },
+        {
+            "name": "The Island",
+            "version": "1.0.0",
+            "summary": "Initial Launch",
+            "changeLogs": [
+                {
+                    "log": "",
+                    "version": "1.0.0",
+                    "date": "Saturday, July 30th 2022, 3:53:49 pm"
+                }
+            ],
+            "exeName": "Procedural Terrain Generation.exe",
+            "downloadURL": "https://github.com/Krevalz-Archive-Unity/GameLauncher-Deployed/blob/main/bin/the_island_v1.0.0.zip?raw=true"
         }
     ],
     "launcherVersion": "1.0.0-alpha",
